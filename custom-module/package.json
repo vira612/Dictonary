@@ -1,0 +1,14 @@
+{
+  "name": "custom-module",
+  "version": "1.0.0",
+  "description": "custom-module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vira",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}

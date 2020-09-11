@@ -1,0 +1,86 @@
+
+.heading{
+    text-align:center ;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-family:  "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size: 400%;
+}
+
+.search{
+    margin-left: 20%;
+    margin-top: 10%;
+    font-size: 80%;
+}
+
+.book{
+    margin-left: 20%;
+}
+
+.image1{
+    margin-left: 30%;
+}
+
+.list{
+    margin-top: 3%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.button{
+    font-size: small;
+    margin-bottom: 1%;
+}
+
+.decoration{
+    font-weight: bold;
+}
+
+.result{
+    margin-top: 8%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.word{
+    margin-bottom: 3%;
+}
+
+.mean{
+    margin-left: 7%; 
+    font-size: 17px;
+    margin-bottom: 1%;
+}
+
+.display{
+    font-size: 17px;
+    margin-bottom: 3%;
+}
+
+input{
+    width: 50%;
+    margin-right: 20% ;
+}
+
+.history{
+    
+    margin-top: 15%;
+}
+
+.image_position{
+    position: fixed;
+    right: 20px;
+    bottom: 10px;
+}
+
+.image{
+    height:100px ;
+    width: 100px;
+    vertical-align:baseline;
+}
+
+
+
+
+
